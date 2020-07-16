@@ -493,6 +493,21 @@ button:focus{
 	background: #300089;
 }
 
+.call-to-action a{
+	font-family: 'Open Sans', sans-serif;
+	background: #e08f42;
+	color: #ffffff;
+	/* padding: 5px 5px; */
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+.call-to-action a:hover{
+	background: #63c7bd;
+}
+
 .countdown #timer div h6{
 	color: #f6feaf;
 	font-weight: 600;
